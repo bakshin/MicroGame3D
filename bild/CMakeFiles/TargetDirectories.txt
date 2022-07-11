@@ -1,0 +1,3 @@
+D:/Programing/repos/MicroGame3D/bild/CMakeFiles/MicroGame3D.dir
+D:/Programing/repos/MicroGame3D/bild/CMakeFiles/ALL_BUILD.dir
+D:/Programing/repos/MicroGame3D/bild/CMakeFiles/ZERO_CHECK.dir
